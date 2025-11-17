@@ -11,7 +11,7 @@ This repository contains selected modules from our complete urban climate and en
 
 # Available Modules
 ## 1. Create_uTMY/ - Urban Weather Generator
-        The `Input_Parameters.xlsx` file contains all essential input parameters required to run the simulations. 
+  The `Input_Parameters.xlsx` file contains all essential input parameters required to run the simulations of BEM-SLUCM and GeoBEM. 
 
 ## 2. Create_uTMY/ - Urban Weather Generator
  	    Purpose: Generates urbanized Typical Meteorological Year (uTMY) EPW files
