@@ -46,7 +46,7 @@ This repository contains selected modules from our complete urban climate and en
   
  	    Core Function: Calculates BIPV power output using Typical Meteorological Year data for global cities
   
- 	    Input: EPW weather files (multiple cities)
+ 	    Input: EPW weather files (samples of global cities)
   
  	    Output: Hourly power data (CSV) + monthly heatmap visualizations
 
