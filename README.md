@@ -1,7 +1,4 @@
 # BIPV
-Repository for the paper "Mitigating Urban Climate-Energy Feedback with Citywide BIPV Implementation". Includes MATLAB/Python tools for urbanized TMY generation and BIPV facade power calculation. 
-
-
 # Code Repository
 This repository contains the publicly available components of the implementation for the paper "Mitigating Urban Climate-Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation". 
 
