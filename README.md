@@ -53,8 +53,8 @@ This repository contains selected modules from our complete urban climate and en
 
 # Quick Start
 Each module operates independently - Navigate to the specific tool you need:
- 	    
-      # Choose the tool for your specific application:
+
+Choose the tool for your specific application:
   
  	    cd Create_uTMY/          # For generating urbanized Typical Meteorological Year (uTMY) EPW files
   
