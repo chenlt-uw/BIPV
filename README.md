@@ -16,7 +16,7 @@ This repository contains selected modules from our complete urban climate and en
 ## 2. Create_uTMY/ - Urban Weather Generator
  	    Purpose: Generates urbanized Typical Meteorological Year (uTMY) EPW files
     
-   	    Technology: MATLAB + Urban Canopy Model outputs
+   	  Technology: MATLAB + Urban Canopy Model outputs
   
  	    Core Function: Integrates UCM outputs with standard meteorological data to create urbanized EPW files
   
@@ -53,7 +53,8 @@ This repository contains selected modules from our complete urban climate and en
 
 # Quick Start
 Each module operates independently - Navigate to the specific tool you need:
- 	    # Choose the tool for your specific application:
+ 	    
+      # Choose the tool for your specific application:
   
  	    cd Create_uTMY/          # For generating urbanized Typical Meteorological Year (uTMY) EPW files
   
