@@ -1,5 +1,4 @@
-# BIPV
-# Code Repository
+# BIPV - Code Repository
 This repository contains the publicly available components of the implementation for the paper "Mitigating Urban Climate-Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation". 
 
 # Author
