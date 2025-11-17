@@ -11,9 +11,12 @@ This repository contains selected modules from our complete urban climate and en
 
 # Available Modules
 ## 1. Create_uTMY/ - Urban Weather Generator
+        The `Input_Parameters.xlsx` file contains all essential input parameters required to run the simulations. 
+
+## 2. Create_uTMY/ - Urban Weather Generator
  	    Purpose: Generates urbanized Typical Meteorological Year (uTMY) EPW files
     
-   	  Technology: MATLAB + Urban Canopy Model outputs
+   	    Technology: MATLAB + Urban Canopy Model outputs
   
  	    Core Function: Integrates UCM outputs with standard meteorological data to create urbanized EPW files
   
@@ -24,7 +27,7 @@ This repository contains selected modules from our complete urban climate and en
  	    Output: Urbanized TMY EPW files
   
 
-## 2. Power_GeoBEM/ - Building Facade BIPV Power Calculator
+## 3. Power_GeoBEM/ - Building Facade BIPV Power Calculator
  	    Purpose: Calculates Building-Integrated Photovoltaic (BIPV) facade power output from EnergyPlus simulation outputs
   
  	    Technology: Python + EnergyPlus result processing
@@ -36,7 +39,7 @@ This repository contains selected modules from our complete urban climate and en
  	    Output: Annual power output (JSON) + hourly generation data (8760 hours)
 
 
-## 3. Power_GlobalCities/ - Global Cities BIPV Power Estimator
+## 4. Power_GlobalCities/ - Global Cities BIPV Power Estimator
  	    Purpose: Estimates hourly BIPV power output for different facade orientations across multiple cities
   
  	    Technology: MATLAB + TMY weather data processing
