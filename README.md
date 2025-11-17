@@ -28,7 +28,7 @@ This repository contains selected modules from our complete urban climate and en
   
 
 ## 3. Power_GeoBEM/ - Building Facade BIPV Power Calculator
- 	    Purpose: Calculates Building-Integrated Photovoltaic (BIPV) facade power output from EnergyPlus simulation outputs
+ 	    Purpose: Calculates Building-Integrated Photovoltaic (BIPV) facade power output from EnergyPlus outputs
   
  	    Technology: Python + EnergyPlus result processing
   
